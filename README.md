@@ -1,0 +1,2 @@
+# thrdman
+django
